@@ -1,4 +1,4 @@
-#include "lemon/network_simplex.h"
+#include "./lemon/network_simplex.h"
 #include "lemon/smart_graph.h"
 
 #include <stdint.h>
